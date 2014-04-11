@@ -28,7 +28,8 @@
     "pivotal": "~0.2.0",
     "when": "~2.8.0",
     "colors": "~0.6.2",
-    "superagent": "~0.16.0"
+    "superagent": "~0.16.0",
+    "tabtab": "0.0.2"
   },
   "bin": {
     "git-start": "bin/git-start",
